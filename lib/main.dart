@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:portfolio/pages/home/splashloader.dart';
 import 'package:responsive_framework/responsive_framework.dart';
-import 'package:portfolio/pages/home/home.dart';
 import 'package:portfolio/utils/constants.dart';
 
 void main() {
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
           const Breakpoint(start: 2460, end: double.infinity, name: '4K'),
         ],
       ),
-      home: Home(),
+      home: SplashLoader(),
     );
   }
 }
