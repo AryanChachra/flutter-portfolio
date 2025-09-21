@@ -7,6 +7,11 @@ import 'package:portfolio/utils/screen_helper.dart';
 
 final List<Experience> experienceList = [
   Experience(
+    description: "Compumatrice Multimedia Pvt. Ltd.",
+    position: "Junior Software Engineer",
+    period: "AUG 2025 - PRESENT",
+  ),
+  Experience(
     description: "Taygete Software Solutions Pvt. Ltd.",
     position: "Software Development Intern",
     period: "JUL 2024 - JUL 2025",

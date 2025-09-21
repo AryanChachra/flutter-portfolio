@@ -7,15 +7,15 @@ import 'package:portfolio/utils/screen_helper.dart';
 List<Skill> skills = [
   Skill(
     skill: "Dart",
-    percentage: 80,
+    percentage: 90,
   ),
   Skill(
     skill: "Flutter",
-    percentage: 80,
+    percentage: 90,
   ),
   Skill(
-    skill: "PHP",
-    percentage: 75,
+    skill: "Firebase",
+    percentage: 80,
   ),
   Skill(
     skill: "Python",
